@@ -15,7 +15,7 @@ class ContentViewModel: ObservableObject {
         if text == "Hello" {
             text = "World"
         } else {
-            text = "Hello"
+            text = "Jello"
         }
     }
     
