@@ -27,6 +27,9 @@
 		266202FA2E691490003A0135 /* DiffTestSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DiffTestSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		266203072E691493003A0135 /* DiffTestSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiffTestSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		266203112E691493003A0135 /* DiffTestSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiffTestSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7083FD060FDC8B3679B2C91C /* Pods_DiffTestSample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DiffTestSample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBAC41409893FD3C19DDBE7A /* Pods_DiffTestSample_DiffTestSampleUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DiffTestSample_DiffTestSampleUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E220F1197202EA18AB6A2B25 /* Pods_DiffTestSampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DiffTestSampleTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +82,7 @@
 				2662030A2E691493003A0135 /* DiffTestSampleTests */,
 				266203142E691493003A0135 /* DiffTestSampleUITests */,
 				266202FB2E691490003A0135 /* Products */,
+				8D12F6F38D58839BDA58570B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -90,6 +94,16 @@
 				266203112E691493003A0135 /* DiffTestSampleUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		8D12F6F38D58839BDA58570B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7083FD060FDC8B3679B2C91C /* Pods_DiffTestSample.framework */,
+				CBAC41409893FD3C19DDBE7A /* Pods_DiffTestSample_DiffTestSampleUITests.framework */,
+				E220F1197202EA18AB6A2B25 /* Pods_DiffTestSampleTests.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -111,8 +125,6 @@
 				266202FC2E691490003A0135 /* DiffTestSample */,
 			);
 			name = DiffTestSample;
-			packageProductDependencies = (
-			);
 			productName = DiffTestSample;
 			productReference = 266202FA2E691490003A0135 /* DiffTestSample.app */;
 			productType = "com.apple.product-type.application";
@@ -134,8 +146,6 @@
 				2662030A2E691493003A0135 /* DiffTestSampleTests */,
 			);
 			name = DiffTestSampleTests;
-			packageProductDependencies = (
-			);
 			productName = DiffTestSampleTests;
 			productReference = 266203072E691493003A0135 /* DiffTestSampleTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
@@ -157,8 +167,6 @@
 				266203142E691493003A0135 /* DiffTestSampleUITests */,
 			);
 			name = DiffTestSampleUITests;
-			packageProductDependencies = (
-			);
 			productName = DiffTestSampleUITests;
 			productReference = 266203112E691493003A0135 /* DiffTestSampleUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
