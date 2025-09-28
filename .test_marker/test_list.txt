@@ -1,0 +1,7 @@
+DiffTestSampleTests/DiffSampleXCTests/testXCBtton2
+DiffTestSampleTests/DiffSampleXCTests/testXCToggle2
+DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne
+DiffTestSampleTests/DiffTestSampleTests/swiftButton3()
+DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()
+DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()
+DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch

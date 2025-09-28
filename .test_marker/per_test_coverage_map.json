@@ -1,0 +1,1273 @@
+{
+  "DiffTestSample/ContentView.swift" : {
+    "coverage" : [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      8,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      0,
+      4,
+      4,
+      4,
+      4,
+      0,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "coverageMap" : {
+      "11" : {
+        "coverage" : 8,
+        "line" : 11,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 2,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 2,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 2,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 2,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 2,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 2,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 8
+        }
+      },
+      "12" : {
+        "coverage" : 4,
+        "line" : 12,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "13" : {
+        "coverage" : 4,
+        "line" : 13,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "14" : {
+        "coverage" : 4,
+        "line" : 14,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "15" : {
+        "coverage" : 4,
+        "line" : 15,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "16" : {
+        "coverage" : 4,
+        "line" : 16,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "17" : {
+        "coverage" : 4,
+        "line" : 17,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "18" : {
+        "coverage" : 4,
+        "line" : 18,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "19" : {
+        "coverage" : 0,
+        "line" : 19,
+        "perTestCoverages" : {
+
+        }
+      },
+      "20" : {
+        "coverage" : 4,
+        "line" : 20,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "21" : {
+        "coverage" : 4,
+        "line" : 21,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "22" : {
+        "coverage" : 4,
+        "line" : 22,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "23" : {
+        "coverage" : 4,
+        "line" : 23,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "24" : {
+        "coverage" : 0,
+        "line" : 24,
+        "perTestCoverages" : {
+
+        }
+      },
+      "25" : {
+        "coverage" : 4,
+        "line" : 25,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "26" : {
+        "coverage" : 4,
+        "line" : 26,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "27" : {
+        "coverage" : 4,
+        "line" : 27,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "28" : {
+        "coverage" : 4,
+        "line" : 28,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "29" : {
+        "coverage" : 4,
+        "line" : 29,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "30" : {
+        "coverage" : 4,
+        "line" : 30,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      }
+    },
+    "file" : "DiffTestSample/ContentView.swift"
+  },
+  "DiffTestSample/ContentViewModel.swift" : {
+    "coverage" : [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      16,
+      null,
+      4,
+      4,
+      2,
+      2,
+      2,
+      2,
+      4,
+      null,
+      2,
+      2,
+      2,
+      null
+    ],
+    "coverageMap" : {
+      "11" : {
+        "coverage" : 16,
+        "line" : 11,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 4,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 4,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 4,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 3,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 3,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 3,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "13" : {
+        "coverage" : 4,
+        "line" : 13,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1
+        }
+      },
+      "14" : {
+        "coverage" : 4,
+        "line" : 14,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1
+        }
+      },
+      "15" : {
+        "coverage" : 2,
+        "line" : 15,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1
+        }
+      },
+      "16" : {
+        "coverage" : 2,
+        "line" : 16,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1
+        }
+      },
+      "17" : {
+        "coverage" : 2,
+        "line" : 17,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1
+        }
+      },
+      "18" : {
+        "coverage" : 2,
+        "line" : 18,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1
+        }
+      },
+      "19" : {
+        "coverage" : 4,
+        "line" : 19,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1
+        }
+      },
+      "21" : {
+        "coverage" : 2,
+        "line" : 21,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1
+        }
+      },
+      "22" : {
+        "coverage" : 2,
+        "line" : 22,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1
+        }
+      },
+      "23" : {
+        "coverage" : 2,
+        "line" : 23,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1
+        }
+      }
+    },
+    "file" : "DiffTestSample/ContentViewModel.swift"
+  },
+  "DiffTestSample/DiffTestSampleApp.swift" : {
+    "coverage" : [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4,
+      4,
+      4,
+      4,
+      4,
+      null
+    ],
+    "coverageMap" : {
+      "11" : {
+        "coverage" : 4,
+        "line" : 11,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "12" : {
+        "coverage" : 4,
+        "line" : 12,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "13" : {
+        "coverage" : 4,
+        "line" : 13,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "14" : {
+        "coverage" : 4,
+        "line" : 14,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      },
+      "15" : {
+        "coverage" : 4,
+        "line" : 15,
+        "perTestCoverages" : {
+          "DiffTestSampleTests/DiffSampleXCTests/testXCBtton2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggle2" : 1,
+          "DiffTestSampleTests/DiffSampleXCTests/testXCToggleOne" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftButton3()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle1()" : 1,
+          "DiffTestSampleTests/DiffTestSampleTests/swiftToggle2()" : 1,
+          "DiffTestSampleUITests/DiffTestSampleUITestsLaunchTests/testLaunch" : 4
+        }
+      }
+    },
+    "file" : "DiffTestSample/DiffTestSampleApp.swift"
+  },
+  "temp/result/full-build/build/Build/Intermediates.noindex/DiffTestSample.build/Debug-iphonesimulator/DiffTestSample.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "coverage" : [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      null,
+      0,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      null,
+      0,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null
+    ],
+    "coverageMap" : {
+      "100" : {
+        "coverage" : 0,
+        "line" : 100,
+        "perTestCoverages" : {
+
+        }
+      },
+      "101" : {
+        "coverage" : 0,
+        "line" : 101,
+        "perTestCoverages" : {
+
+        }
+      },
+      "105" : {
+        "coverage" : 0,
+        "line" : 105,
+        "perTestCoverages" : {
+
+        }
+      },
+      "114" : {
+        "coverage" : 0,
+        "line" : 114,
+        "perTestCoverages" : {
+
+        }
+      },
+      "116" : {
+        "coverage" : 0,
+        "line" : 116,
+        "perTestCoverages" : {
+
+        }
+      },
+      "117" : {
+        "coverage" : 0,
+        "line" : 117,
+        "perTestCoverages" : {
+
+        }
+      },
+      "118" : {
+        "coverage" : 0,
+        "line" : 118,
+        "perTestCoverages" : {
+
+        }
+      },
+      "119" : {
+        "coverage" : 0,
+        "line" : 119,
+        "perTestCoverages" : {
+
+        }
+      },
+      "120" : {
+        "coverage" : 0,
+        "line" : 120,
+        "perTestCoverages" : {
+
+        }
+      },
+      "124" : {
+        "coverage" : 0,
+        "line" : 124,
+        "perTestCoverages" : {
+
+        }
+      },
+      "133" : {
+        "coverage" : 0,
+        "line" : 133,
+        "perTestCoverages" : {
+
+        }
+      },
+      "134" : {
+        "coverage" : 0,
+        "line" : 134,
+        "perTestCoverages" : {
+
+        }
+      },
+      "135" : {
+        "coverage" : 0,
+        "line" : 135,
+        "perTestCoverages" : {
+
+        }
+      },
+      "136" : {
+        "coverage" : 0,
+        "line" : 136,
+        "perTestCoverages" : {
+
+        }
+      },
+      "137" : {
+        "coverage" : 0,
+        "line" : 137,
+        "perTestCoverages" : {
+
+        }
+      },
+      "138" : {
+        "coverage" : 0,
+        "line" : 138,
+        "perTestCoverages" : {
+
+        }
+      },
+      "139" : {
+        "coverage" : 0,
+        "line" : 139,
+        "perTestCoverages" : {
+
+        }
+      },
+      "146" : {
+        "coverage" : 0,
+        "line" : 146,
+        "perTestCoverages" : {
+
+        }
+      },
+      "147" : {
+        "coverage" : 0,
+        "line" : 147,
+        "perTestCoverages" : {
+
+        }
+      },
+      "148" : {
+        "coverage" : 0,
+        "line" : 148,
+        "perTestCoverages" : {
+
+        }
+      },
+      "149" : {
+        "coverage" : 0,
+        "line" : 149,
+        "perTestCoverages" : {
+
+        }
+      },
+      "150" : {
+        "coverage" : 0,
+        "line" : 150,
+        "perTestCoverages" : {
+
+        }
+      },
+      "151" : {
+        "coverage" : 0,
+        "line" : 151,
+        "perTestCoverages" : {
+
+        }
+      },
+      "152" : {
+        "coverage" : 0,
+        "line" : 152,
+        "perTestCoverages" : {
+
+        }
+      },
+      "161" : {
+        "coverage" : 0,
+        "line" : 161,
+        "perTestCoverages" : {
+
+        }
+      },
+      "169" : {
+        "coverage" : 0,
+        "line" : 169,
+        "perTestCoverages" : {
+
+        }
+      },
+      "170" : {
+        "coverage" : 0,
+        "line" : 170,
+        "perTestCoverages" : {
+
+        }
+      },
+      "171" : {
+        "coverage" : 0,
+        "line" : 171,
+        "perTestCoverages" : {
+
+        }
+      },
+      "172" : {
+        "coverage" : 0,
+        "line" : 172,
+        "perTestCoverages" : {
+
+        }
+      },
+      "173" : {
+        "coverage" : 0,
+        "line" : 173,
+        "perTestCoverages" : {
+
+        }
+      },
+      "177" : {
+        "coverage" : 0,
+        "line" : 177,
+        "perTestCoverages" : {
+
+        }
+      },
+      "186" : {
+        "coverage" : 0,
+        "line" : 186,
+        "perTestCoverages" : {
+
+        }
+      },
+      "188" : {
+        "coverage" : 0,
+        "line" : 188,
+        "perTestCoverages" : {
+
+        }
+      },
+      "189" : {
+        "coverage" : 0,
+        "line" : 189,
+        "perTestCoverages" : {
+
+        }
+      },
+      "190" : {
+        "coverage" : 0,
+        "line" : 190,
+        "perTestCoverages" : {
+
+        }
+      },
+      "191" : {
+        "coverage" : 0,
+        "line" : 191,
+        "perTestCoverages" : {
+
+        }
+      },
+      "192" : {
+        "coverage" : 0,
+        "line" : 192,
+        "perTestCoverages" : {
+
+        }
+      },
+      "196" : {
+        "coverage" : 0,
+        "line" : 196,
+        "perTestCoverages" : {
+
+        }
+      },
+      "213" : {
+        "coverage" : 0,
+        "line" : 213,
+        "perTestCoverages" : {
+
+        }
+      },
+      "214" : {
+        "coverage" : 0,
+        "line" : 214,
+        "perTestCoverages" : {
+
+        }
+      },
+      "215" : {
+        "coverage" : 0,
+        "line" : 215,
+        "perTestCoverages" : {
+
+        }
+      },
+      "216" : {
+        "coverage" : 0,
+        "line" : 216,
+        "perTestCoverages" : {
+
+        }
+      },
+      "230" : {
+        "coverage" : 0,
+        "line" : 230,
+        "perTestCoverages" : {
+
+        }
+      },
+      "231" : {
+        "coverage" : 0,
+        "line" : 231,
+        "perTestCoverages" : {
+
+        }
+      },
+      "232" : {
+        "coverage" : 0,
+        "line" : 232,
+        "perTestCoverages" : {
+
+        }
+      },
+      "233" : {
+        "coverage" : 0,
+        "line" : 233,
+        "perTestCoverages" : {
+
+        }
+      },
+      "270" : {
+        "coverage" : 0,
+        "line" : 270,
+        "perTestCoverages" : {
+
+        }
+      },
+      "272" : {
+        "coverage" : 0,
+        "line" : 272,
+        "perTestCoverages" : {
+
+        }
+      },
+      "276" : {
+        "coverage" : 0,
+        "line" : 276,
+        "perTestCoverages" : {
+
+        }
+      },
+      "285" : {
+        "coverage" : 0,
+        "line" : 285,
+        "perTestCoverages" : {
+
+        }
+      },
+      "287" : {
+        "coverage" : 0,
+        "line" : 287,
+        "perTestCoverages" : {
+
+        }
+      },
+      "291" : {
+        "coverage" : 0,
+        "line" : 291,
+        "perTestCoverages" : {
+
+        }
+      },
+      "301" : {
+        "coverage" : 0,
+        "line" : 301,
+        "perTestCoverages" : {
+
+        }
+      },
+      "302" : {
+        "coverage" : 0,
+        "line" : 302,
+        "perTestCoverages" : {
+
+        }
+      },
+      "303" : {
+        "coverage" : 0,
+        "line" : 303,
+        "perTestCoverages" : {
+
+        }
+      },
+      "311" : {
+        "coverage" : 0,
+        "line" : 311,
+        "perTestCoverages" : {
+
+        }
+      },
+      "312" : {
+        "coverage" : 0,
+        "line" : 312,
+        "perTestCoverages" : {
+
+        }
+      },
+      "313" : {
+        "coverage" : 0,
+        "line" : 313,
+        "perTestCoverages" : {
+
+        }
+      },
+      "89" : {
+        "coverage" : 0,
+        "line" : 89,
+        "perTestCoverages" : {
+
+        }
+      },
+      "97" : {
+        "coverage" : 0,
+        "line" : 97,
+        "perTestCoverages" : {
+
+        }
+      },
+      "98" : {
+        "coverage" : 0,
+        "line" : 98,
+        "perTestCoverages" : {
+
+        }
+      },
+      "99" : {
+        "coverage" : 0,
+        "line" : 99,
+        "perTestCoverages" : {
+
+        }
+      }
+    },
+    "file" : "temp/result/full-build/build/Build/Intermediates.noindex/DiffTestSample.build/Debug-iphonesimulator/DiffTestSample.build/DerivedSources/GeneratedAssetSymbols.swift"
+  }
+}
